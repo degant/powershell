@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0BB75FB8-DF25-4491-92FF-C5591A0E812B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Azure", "Azure", "{06AB869E-69C9-4BDE-9F6A-4C759CD03C27}"
 	ProjectSection(SolutionItems) = preProject
-		src\Upload-AzureRmADCertificate.ps1 = src\Upload-AzureRmADCertificate.ps1
+		src\Azure\Upload-AzureRmADCertificate.ps1 = src\Azure\Upload-AzureRmADCertificate.ps1
 	EndProjectSection
 EndProject
 Global
